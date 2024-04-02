@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+syncer.py
+docs/Makefile
+docs/conf.py
+docs/index.rst
+docs/make.bat
+syncer.egg-info/PKG-INFO
+syncer.egg-info/SOURCES.txt
+syncer.egg-info/dependency_links.txt
+syncer.egg-info/not-zip-safe
+syncer.egg-info/top_level.txt
+tests/__init__.py
+tests/test_syncer.py
