@@ -1,5 +1,5 @@
 # RAG-Chat-with-Documents
-Chainlit app for RAg chat with documents Parsing PDF documents using LlamaParse, Qdrant, and the Groq model
+Chainlit app for RAG chat with documents Parsing PDF documents using LlamaParse, Qdrant, and the Groq model
  
 * LlamaParse 🦙 - Qdrant - Groq - Chainlit
 
